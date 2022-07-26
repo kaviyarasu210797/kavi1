@@ -6,5 +6,7 @@ public class Sample {
 		int a = 10;
 		System.out.println(a);
 		System.out.println("brach A");
+		System.out.println("brach B");
+
 	}
 }
