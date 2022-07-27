@@ -12,7 +12,7 @@ public class Sample {
 		
 		System.out.println("new codes added into A branch");
 		
-		
+		System.out.println("new codes added into B branch");
 
 	}
 }
