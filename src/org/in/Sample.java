@@ -8,6 +8,8 @@ public class Sample {
 		System.out.println("brach A");
 		System.out.println("brach B");
 		System.out.println("kaviyarasu");
+		
+		System.out.println("new codes added into A branch");
 
 	}
 }
